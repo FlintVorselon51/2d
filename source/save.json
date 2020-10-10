@@ -1,0 +1,17 @@
+{
+	"resolution": [1280, 720],
+	"objects": [
+		{
+			"coordinates": [90, 120],
+			"radius": 50
+		},
+		{
+			"coordinates": [300, -160],
+			"radius": 100
+		},
+		{
+			"coordinates": [-85, -120],
+			"radius": 75
+		}	
+	]
+}
